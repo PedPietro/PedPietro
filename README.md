@@ -22,3 +22,5 @@
 [![](https://visitcount.itsvg.in/api?id=PedPietro&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+💙 Thank you for viewing my profile. I don't have many projects here yet as I'm new to programming, but I am committed to improving and adding more content
