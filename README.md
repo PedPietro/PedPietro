@@ -1,5 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PedPietro&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedPietro&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=6A5ACD&text_color=4169E1&bg_color=0d1117" alt="PedPietro github stats" />
+  <img width="49%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=PedPietro&theme=midnight-purple&hide_border=false"/>
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedPietro&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,java,nodejs,python" />
+</div>
+
 # 💫 About Me:
 👩‍💻 I am passionate about technology and development, dedicating myself to creating innovative softwarethat turns my ideas into reality.<br><br>👶 I'm new to programming, with only a few months of experience, but I'm excited to learn and grow on this journey.<br><br>🔥 I really like programming because we can solve challenging problems and turn ideas into reality through programming.
 
@@ -7,15 +21,11 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pedpietro) 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PedPietro&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PedPietro&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedPietro&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PedPietro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=PedPietro&theme=midnight-purple&hide_border=false)<br/>
+
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
