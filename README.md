@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
+
 # 💫 About Me:
 👩‍💻 I am passionate about technology and development, dedicating myself to creating innovative softwarethat turns my ideas into reality.<br><br>👶 I'm new to programming, with only a few months of experience, but I'm excited to learn and grow on this journey.<br><br>🔥 I really like programming because we can solve challenging problems and turn ideas into reality through programming.
 
@@ -25,3 +27,4 @@
 
 💙 Thank you for viewing my profile. I don't have many projects here yet as I'm new to programming, but I am committed to improving and adding more content.
 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
