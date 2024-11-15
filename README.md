@@ -6,6 +6,11 @@
   
   ## 💫 About Me:
 👩‍💻 I am passionate about technology and development, dedicating myself to creating innovative softwarethat turns my ideas into reality.<br><br>👶 I'm new to programming, with only a few months of experience, but I'm excited to learn and grow on this journey.<br><br>🔥 I really like programming because we can solve challenging problems and turn ideas into reality through programming.
+  
+  ## ⚒️ Languages-Frameworks-Tools ⚒️
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,java,nodejs,python" />
+</div>
 
   ## 🏆 Trophies
 <p align="center">
@@ -13,14 +18,14 @@
 </p>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedPietro&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=6A5ACD&text_color=4169E1&bg_color=0d1117" alt="PedPietro github stats" /><img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedPietro&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
-<img width=490 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PedPietro&bg_color=4169E1&count_private=true&text_color=4169E1&theme=react&border_radius=10" alt="streak stats"/>
+    <img width=490 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PedPietro&bg_color=4169E1&count_private=true&text_color=4169E1&theme=react&border_radius=10" alt="streak stats"/>
+</div>
+<div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedPietro&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=6A5ACD&text_color=4169E1&bg_color=0d1117" alt="PedPietro github stats" />                                      
+    <img width="49%" height="180px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedPietro&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
 </div>
 
-  ## ⚒️ Languages-Frameworks-Tools ⚒️
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,java,nodejs,python" />
-</div>
+
  
 ## 🌐 Socials:
 <div align="center">
