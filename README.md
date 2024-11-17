@@ -14,7 +14,12 @@
 
 ## 🛠️ DataBases 🛢️
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql"/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</div>
+
+## ✍️ Code Editors 💻 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode"/>
 </div>
 
   ## 🏆 Trophies
