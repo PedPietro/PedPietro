@@ -22,6 +22,11 @@
     <img src="https://skillicons.dev/icons?i=vscode,idea"/>
 </div>
 
+## ✍️ Code Editors 💻 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,idea"/>
+</div>
+
   ## 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PedPietro&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
