@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,idea"/>
 </div>
 
-## ✍️ Code Editors 💻 
+## 📂 Version Control 🌐 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github"/>
 </div>
