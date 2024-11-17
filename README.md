@@ -39,7 +39,7 @@
  
 ## 🌐 Socials:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=discord"/>
+    <img src="https://skillicons.dev/icons?i=discord,gmail"/>
 </div>
 
 ### ✍️ Dev Quote
