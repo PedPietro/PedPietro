@@ -24,7 +24,7 @@
 
 ## ✍️ Code Editors 💻 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,idea"/>
+    <img src="https://skillicons.dev/icons?i=github"/>
 </div>
 
   ## 🏆 Trophies
