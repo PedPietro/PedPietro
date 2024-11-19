@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
 
-<h1 align="center">
+<h1 align="">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=39&center=true&vCenter=true&width=500&height=70&color=1796F7&duration=4000&lines=Hello+Bro!+;+I'm+Pietro!;" />
 </h1>
   
