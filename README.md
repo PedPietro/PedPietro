@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=39&center=true&vCenter=true&width=500&height=70&color=1796F7&duration=4000&lines=Hello+Bro!+;+I'm+Pietro!;" />
 </h1>
-  
+  sddddddddddddddddddds
   ## 💫 About Me:
 👩‍💻 I am passionate about technology and development, dedicating myself to creating innovative softwarethat turns my ideas into reality.<br><br>👶 I'm new to programming, with only a few months of experience, but I'm excited to learn and grow on this journey.<br><br>🔥 I really like programming because we can solve challenging problems and turn ideas into reality through programming.
   
