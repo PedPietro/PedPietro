@@ -9,7 +9,7 @@
   
   ## ⚒️ Languages-Frameworks-Tools ⚒️
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,,css,java,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,java,nodejs,python" />
 </div>
 
 ## 🛠️ DataBases 🛢️
