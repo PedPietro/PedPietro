@@ -44,9 +44,9 @@
  
 ## 🌐 Socials:
 <div align="center">
-    <a href="mailto:piettopedreira@gmail.com" target="_blank" rel="noopener noreferrer">
+    <a href="[mailto:piettopedreira@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwClvstPsqlTlhkHPBppCLvvgrcZRsZVQCknwXlwPRfKcMjbWCdXMnctDrPPbGXdLjRtdF)" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail"/></a>
-    <a href="mailto:piettopedreira@gmail.com" target="_blank" rel="noopener noreferrer">
+    <a href="[mailto:piettopedreira@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwClvstPsqlTlhkHPBppCLvvgrcZRsZVQCknwXlwPRfKcMjbWCdXMnctDrPPbGXdLjRtdF)" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=discord"/></a>
 </div>
 
