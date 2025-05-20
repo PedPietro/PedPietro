@@ -44,7 +44,10 @@
  
 ## 🌐 Socials:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=discord,gmail"/>
+    <a href="mailto:piettopedreira@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail"/></a>
+    <a href="mailto:piettopedreira@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=discord"/></a>
 </div>
 
 ### ✍️ Dev Quote
