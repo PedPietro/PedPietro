@@ -9,7 +9,7 @@
   
   ## ⚒️ Languages-Frameworks-Tools ⚒️
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,java,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,java,nodejs,python,kotlin,cs" />
 </div>
 
 ## 🛠️ DataBases 🛢️
@@ -19,7 +19,7 @@
 
 ## ✍️ Code Editors 💻 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,idea"/>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,arduino"/>
 </div>
 
 ## 📂 Version Control 🌐 
