@@ -5,7 +5,7 @@
 </h1>
 
   ## 💫 About Me:
-👩‍💻 I am passionate about technology and development, dedicating myself to creating innovative softwarethat turns my ideas into reality.<br><br>👶 I'm new to programming, with only a few months of experience, but I'm excited to learn and grow on this journey.<br><br>🔥 I really like programming because we can solve challenging problems and turn ideas into reality through programming.
+👩‍💻 I am passionate about technology and development, dedicating myself to creating innovative software that turns my ideas into reality.<br><br>👶 I'm new to programming, with only a few months of experience, but I'm excited to learn and grow on this journey.<br><br>🔥 I really like programming because we can solve challenging problems and turn ideas into reality through programming.
   
   ## ⚒️ Languages-Frameworks-Tools ⚒️
 <div align="center">
