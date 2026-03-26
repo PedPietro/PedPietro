@@ -27,11 +27,7 @@
     <img src="https://skillicons.dev/icons?i=github"/>
 </div>
 
-<div align="center">
-    <img width=490 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PedPietro&bg_color=4169E1&count_private=true&text_color=4169E1&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-<div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedPietro&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=6A5ACD&text_color=4169E1&bg_color=0d1117" alt="PedPietro github stats" />                                      
+<div align="center">                                 
     <img width="49%" height="180px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedPietro&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
 </div>
 
