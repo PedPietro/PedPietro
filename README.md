@@ -27,11 +27,6 @@
     <img src="https://skillicons.dev/icons?i=github"/>
 </div>
 
-  ## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PedPietro&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center">
     <img width=490 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PedPietro&bg_color=4169E1&count_private=true&text_color=4169E1&theme=react&border_radius=10" alt="streak stats"/>
 </div>
@@ -42,21 +37,13 @@
 
 
  
-## 🌐 Socials:
+## 🌐 How to Reach Me:
 <div align="center">
     <a href="">
     <img src="https://skillicons.dev/icons?i=gmail"/></a>
     <a href="">
     <img src="https://skillicons.dev/icons?i=discord"/></a>
 </div>
-
-### ✍️ Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
-
-<img src="https://visitcount.itsvg.in/api?id=PedPietro&icon=0&color=9)](https://visitcount.itsvg.in"/>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
