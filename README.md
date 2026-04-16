@@ -43,6 +43,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-💙 Thank you for viewing my profile. I don't have many projects here yet as I'm new to programming, but I am committed to improving and adding more content.
+<!--💙 Thank you for viewing my profile. I don't have many projects here yet as I'm new to programming, but I am committed to improving and adding more content.-->
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
