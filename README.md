@@ -26,12 +26,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github"/>
 </div>
-
-<div align="center">                                 
-    <img width="49%" height="180px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedPietro&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
-</div>
-
-
  
 ## 🌐 How to Reach Me:
 <div align="center">
