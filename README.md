@@ -21,6 +21,18 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,arduino"/>
 </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Frontend</b><br><img src="https://skillicons.dev/icons?i=react,angular,js,ts,tailwind,threejs,vite,bootstrap" /></td>
+      <td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=nodejs,mysql,php,express" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Design/3D</b><br><img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,figma" /></td>
+      <td align="center"><b>DevOps and Tools</b><br><img src="https://skillicons.dev/icons?i=docker,git,vercel,vscode,visualstudio" /></td>
+    </tr>
+  </table>
+</div>
 
 ## 📂 Version Control 🌐 
 <div align="center">
