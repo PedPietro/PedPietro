@@ -23,10 +23,10 @@
  
 ## 🌐 How to Reach Me:
 <div align="center">
-    <a href="">
-    <img src="https://skillicons.dev/icons?i=gmail"/></a>
-    <a href="">
-    <img src="https://skillicons.dev/icons?i=discord"/></a>
+    <a href="mailto:piettopedreira@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail"/></a>
+    <a href="https://www.linkedin.com/in/pietro-pedreira-460222288/">
+        <img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
