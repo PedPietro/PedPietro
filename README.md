@@ -5,9 +5,9 @@
 </h1>
 
 ## 💫 About Me:
-👩‍💻 I am passionate about technology and development, dedicating myself to creating innovative software that turns my ideas into reality.<br><br>
+Sup Guys, i am developer in the 2nd year of high school, and for rn i am focusing im science fair projects.<br><br>
   
-## ⚒️ Skills & Tools ⚒️
+## 👩‍💻 Skills 
 <div align="center">
   <table>
     <tr>
@@ -21,7 +21,7 @@
   </table>
 </div>
  
-## 🌐 How to Reach Me:
+## 🌐 Socials:
 <div align="center">
     <a href="mailto:piettopedreira@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail"/></a>
